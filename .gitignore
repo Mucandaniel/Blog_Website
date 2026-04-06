@@ -1,6 +1,6 @@
 # files
-.server.js
-.information.txt
+server.js
+information.txt
 
 # folders
 node_modules
