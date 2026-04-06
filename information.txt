@@ -1,0 +1,1 @@
+This blog will feature a start page that displays images and text providing various details about the blog. Users will be able to enter the name of their blog along with a short description, which will then be saved on the site. 
